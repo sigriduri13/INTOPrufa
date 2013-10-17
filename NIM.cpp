@@ -34,6 +34,7 @@ int main( )
 	int val;
 	do
 	{
+		cout << "Her breytti eg kodanum orlitid. -Sig. Sara"	
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
