@@ -93,7 +93,6 @@ void spila( )
 
 void hjalp( )
 {
-	cout << "Sigridur Sara Ingvarsdottir breytti kodanum her."
 	cout << "              UM NIM - LEIKINN " << endl << endl;
 	cout << "Leikurinn NIM er upprunninn fra Asiu thar sem hann var" << endl;
 	cout << "leikinn med steinvolum.  Reglurnar eru thessar: " << endl;
